@@ -7,3 +7,12 @@ C:\Users\Nico\Desktop\C#Project\Look Sharp Fitness Center\Look Sharp Fitness Cen
 C:\Users\Nico\Desktop\C#Project\Look Sharp Fitness Center\Look Sharp Fitness Center\obj\Release\Look Sharp Fitness Center.exe
 C:\Users\Nico\Desktop\C#Project\Look Sharp Fitness Center\Look Sharp Fitness Center\obj\Release\Look Sharp Fitness Center.pdb
 C:\Users\Nico\Desktop\C#Project\Look Sharp Fitness Center\Look Sharp Fitness Center\obj\Release\Look Sharp Fitness Center.csprojResolveAssemblyReference.cache
+C:\Users\ngiul\Documents\GitHub\Look-Sharp-Fitness-Center\bin\Release\Look Sharp Fitness Center.exe.config
+C:\Users\ngiul\Documents\GitHub\Look-Sharp-Fitness-Center\bin\Release\Look Sharp Fitness Center.exe
+C:\Users\ngiul\Documents\GitHub\Look-Sharp-Fitness-Center\bin\Release\Look Sharp Fitness Center.pdb
+C:\Users\ngiul\Documents\GitHub\Look-Sharp-Fitness-Center\obj\Release\Look_Sharp_Fitness_Center.frmLSFC.resources
+C:\Users\ngiul\Documents\GitHub\Look-Sharp-Fitness-Center\obj\Release\Look_Sharp_Fitness_Center.Properties.Resources.resources
+C:\Users\ngiul\Documents\GitHub\Look-Sharp-Fitness-Center\obj\Release\Look Sharp Fitness Center.csproj.GenerateResource.cache
+C:\Users\ngiul\Documents\GitHub\Look-Sharp-Fitness-Center\obj\Release\Look Sharp Fitness Center.csproj.CoreCompileInputs.cache
+C:\Users\ngiul\Documents\GitHub\Look-Sharp-Fitness-Center\obj\Release\Look Sharp Fitness Center.exe
+C:\Users\ngiul\Documents\GitHub\Look-Sharp-Fitness-Center\obj\Release\Look Sharp Fitness Center.pdb
